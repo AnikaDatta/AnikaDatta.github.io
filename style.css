@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #b1d8e6;
+}
+
+body {
+  font-family: 'Island Moments', cursive;
+}
+
+h1 {
+  font-size: 70px;
+  color: #2A6478;
+  text-align: Center;
+}
+
+h2 {
+  font-size: 40px;
+  color: #23282B;
+  text-align: Center;
+}
+
+p {
+  font-size: 20px;
+  color: #1D334A;
+  text-align: Center;
+}
+
+li {
+  font-size: 15px;
+  color: #374FAE;
+  text-align: Center;
+}
+
+h3 {
+  color: #113f5c;
+  text-align: Center;
+}
